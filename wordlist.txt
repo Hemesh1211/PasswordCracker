@@ -1,0 +1,10 @@
+password
+123456
+admin
+guest
+admin123
+qwerty
+welcome
+computer
+security
+hackme
