@@ -34,7 +34,7 @@ The dashboard is the easiest way to interact with the engine.
 python gui_cracker.py
 ```
 
-### 3. Usage Guide (7th Class Style!)
+### 3. Usage Guide
 1. **Launch:** Run the command above. The dashboard will open.
 2. **The Target:** You will see a long string of numbers and letters in the top box. This is the **SHA-256 Hash**.
 3. **Initialize Attack:** Click the big **"INITIALIZE ATTACK"** button.
