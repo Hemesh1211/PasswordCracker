@@ -51,4 +51,4 @@ In the real world, hackers use tools like this to test systems. To protect accou
 - **Key Stretching:** Using algorithms like *bcrypt* to make password testing thousands of times slower.
 
 ---
-*Developed as a 3rd Year Engineering Academic Project.*
+
